@@ -27,6 +27,7 @@ Projeto desenvolvido para praticar manipulação de elementos e validação de i
 
 - Formulário para escolher dentre os horários disponíveis
 - Criar agendamento
+- Cancelar agendamento
 - Lista de agendamentos organizada por períodos do dia
 
 ## 🚀 Tecnologias
